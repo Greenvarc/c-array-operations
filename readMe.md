@@ -1,9 +1,3 @@
-###
-
-    Name :Zigashane Robert
-    Access No: B21296
-    Reg No: M23B23/041
-    STRUSCTURE PROGRAMMING WITH C ASSIGMENT
 
 ### code organization and how to run
 
